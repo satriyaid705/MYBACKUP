@@ -1,0 +1,16 @@
+{
+  "EnableSessionKey": "1",
+  "SessionKey": "1234",
+
+  "SessionKeyLink": "https://app.simplenote.com/p/kzFNb3",
+  "LabelSessionKeyHint": "PASTE HERE",
+  "LabelVerifySession": "VERIFY",
+  "LabelGetKey": " Get Key (FREE) ",
+  "SessionKeyUnderlineColor": "#555555",
+  "SessionKeyButtonColor": "#00FFA8",
+  "SessionKeySuccessColor": "#00CF88",
+  "SessionKeyInvalidColor": "#BA0000",
+  "SessionKeySuccessMessage": "Session Keys Valid 😎",
+  "SessionKeyInvalidMessage": "Incorrect Session Keys !!!",
+  "SessionTip": "<font color='#00FFA8'>======================================</font><br>Enter the Session Keys that you got from<br> \"Get Key\" Button to hide for a month (Reset Monthly)"
+}
