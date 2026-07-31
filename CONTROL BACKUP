@@ -1,0 +1,76 @@
+{
+  "EnableReturnVoid": "0",
+  "EnablePackageCheck": "1",
+  "EnableLanguageCheck": "1",
+  "IsOnlyShowOne": "1",
+  "IsShowReason": "0",
+  "MasterSessionKey": "1",
+  "ForceOffline": "0",
+
+  "WhitelistDeviceIds": [
+"Xiaomi 24094RAD4G, xde567f8752eb688a",
+"Xiaomi 23049PCD8G, 39019c86feb24936",
+"realme RMX3785, 54131b87697d1d29",
+"samsung SM-S918B, 076b58dc01297c1d",
+"Xiaomi 24129PN74G, 0b1c879c90ee8634",
+"samsung SM-A546E, 61d6aec0242b307c",
+"Xiaomi 22081212UG, 3a5f3b10ea2346eb",
+"HONOR RMO-NX1, 82c41506a00cf74a",
+"Xiaomi 24115RA8EG, 6769a3abe4f707af",
+"INFINIX Infinix X6528B, ef839178eb62db1e",
+"samsung SM-A325F, 22e698bb2b2d4038",
+"samsung SM-A556E, 0c56c12c5ae100ae",
+"Xiaomi 25053PC47G, d91d71892b49ff17",
+"INFINIX Infinix X6873, 603cb038799b2042",
+"samsung SM-S938U, e4accd92665e7382",
+"realme RMX5313, d76db7849e376463",
+"HUAWEI FOA-LX9, 671a5d4213a24f65",
+"Xiaomi 24069PC21G, 455323c82cc9c29f",
+"Xiaomi 25078RA3EE, bdfd428677e7a8b3",
+"vivo V2453A, d8153b012a191eb9",
+"Xiaomi 23124RA7EO, 84dd8e805790184d",
+"BBB, 7890"
+  ],
+
+  "VerificationSuccessMessage": "Thank you for supporting us!\nWhitelist Active 😇",
+
+  "PackageList": "com.android.chrome,ru.gov.max.messenger,com.vkontakte.android,ru.ok.android,ru.rossgram.app,com.yandex.browser,ru.yandex.yandexmaps,ru.yandex.market,ru.ozon.app.android,ru.ostrovok.android,eu.faircode.netguard,eu.sheikhsoft.internetguard,dev.tuantv.android.netblocker,com.protectstar.firewall.android,com.cbinnovations.firewall,com.firewall.dns.security.android,firewall.network.manager,app.greyshirts.firewall",
+ 
+  "TargetLanguages": "ru,ru-rRU,my-rMM,my,km-rKH,km,km-KH",
+  "SharedPrefIndexSession": 1,
+
+  "DialogTitle": "<b>Security Warning!</b>",
+  "DialogMessage": "Due to a high volume of reports regarding <b><font color='#00FFA8'>REUPLOADERS</font></b> from your country, we have slightly restricted access by giving a delay 🤣<br><br>Dialog will close automatically in: ",
+  "DialogBackgroundColor": "#222222",
+  "DialogTitleColor": "#00FFA8",
+  "DialogMessageColor": "#DDDDDD",
+  "DialogProgressBarColor": "#00FFA8",
+
+  "AdminLink": "https://telegram.me/DonateAMZ",
+  "VisitLink": "https://s.id/satriyaidbio",
+  "PackageForceClose": "0",
+  "LanguageForceClose": "0",
+  "PackageTimerMillis": "7000",
+  "LanguageDelayMillis": "7000",
+
+  "PackageDialog": "1",
+  "PackageToast": "0",
+  "PackageCopyIdButton": "1",
+  "PackageDmAdminButton": "1",
+  "PackageVisitLinkButton": "0",
+  "PackageStopTimerButton": "1",
+
+  "LanguageDialog": "1",
+  "LanguageToast": "0",
+  "LanguageCopyIdButton": "1",
+  "LanguageDmAdminButton": "1",
+  "LanguageVisitLinkButton": "0",
+  "LanguageStopTimerButton": "0",
+  "PackageToastMessage": "No Internet Connection",
+  "LanguageToastMessage": "No Internet Connection",
+
+  "DonateTip": "<font color='#00FFA8'>======================================</font><br> Or become a VIP Supporter with minimum donation<br> ⭐ 100 TG Stars / $ 1.5 BinancePay / Paypal<br>(Permanently Hide)",
+   "DonateTipNoSession": "<font color='#00FFA8'>======================================</font><br>Become a VIP Supporter with minimum donation<br> ⭐ 100 TG Stars / $ 1.5 BinancePay / Paypal<br>(Permanently Hide)",
+
+  "ConnectionTimeout": 5000
+}
