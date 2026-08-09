@@ -1,0 +1,90 @@
+{
+  "DialogShow": false,
+  "Dialog_Title": "Update Available\n(5.0.273 24JUL)",
+  "New_Version": "5.0.273.1028423",
+  "Download_Link": "https://app.simplenote.com/p/9rRT9b",
+
+  "Special_Link_Default_Text": "SPECIAL UPDATE",
+  "Special_Link_Button_Text_Color": "#FFFFFF",
+  "Special_Link_Button_Gradient_Color1": "#AAAA00",
+  "Special_Link_Button_Gradient_Color2": "#00AA00",
+
+  "XDownload_Link": "ggg",
+
+  "isCancelable": false,
+  "IsForceShowClose": false,
+  "ForceShowCloseVersions": ["1.0", "1.1"],
+
+  "Show_Direct_Link_Button": true,
+  "Show_Skip_Button": true,
+  "Show_Settings_Button": true,
+
+  "Dialog_Message": "Updates are required for apps to run properly, Bug Fixes and Get new feature from Updates. Visit the Link and Follow All the Instructions.",
+  "Warning_Text": "<small>⚠️ Downloading from sources other than<br/>The modder link will delete all existing projects.</small>",
+
+  "Title_Color": "#FF00FFA8",
+  "Title_Color2": "#FFFFFF",
+  "Message_Color": "#DDDDDD",
+  "Dialog_Background_Color": "#333333",
+
+  "Okay_Button_Text": "UPDATE NOW",
+  "Okay_Button_BGColor": "#FF00C985",
+  "Okay_Button_Text_Color": "#FFFFFF",
+
+  "Cancel_Button_Text": "CANCEL",
+  "Cancel_Button_BGColor": "#555555",
+  "Cancel_Button_Text_Color": "#DDDDDD",
+
+  "Direct_Link_Button_Text": "DIRECT LINK",
+  "Direct_Link_Gradient_Color1": "#00FFFF",
+  "Direct_Link_Gradient_Color2": "#FF00FF",
+  "Verify_Url": "https://pastebin.com/raw/bdDguBWL",
+  "Auth_Failed_Toast": "You are not a VIP Supporter",
+
+  "Skip_Verify_Url": "https://pastebin.com/raw/bdDguBWL",
+  "Skip_Auth_Failed_Toast": "You are not a VIP Supporter",
+  "Skip_Button_Gradient_Color1": "#FFD700",
+  "Skip_Button_Gradient_Color2": "#B8860B",
+
+  "multilink": true,
+  "invalidUrl": "Link not Available",
+  "Single_Direct_Link": "https://google.com",
+
+  "Direct_Button_Name_1": "ORI PKG and ORI THEME",
+  "Direct_Link_1": "https://devuploads.com/kqzkfo84gl7e",
+  "Direct_Button_Name_2": "ORI PKG and DARK THEME",
+  "Direct_Link_2": "https://devuploads.com/4v2m503rpalr",
+  "Direct_Button_Name_3": "CLONE PKG and ORI THEME",
+  "Direct_Link_3": "https://devuploads.com/4rk9q4ialrke",
+  "Direct_Button_Name_4": "CLONE PKG and DARK THEME",
+  "Direct_Link_4": "https://devuploads.com/1ytyyp6heg08",
+
+  "Settings_Button_Emoji": "⚙️",
+  "Side_Menu_Background_Color": "#DD222222",
+  "Side_Menu_Pressed_Color": "#55AAAAAA",
+  "DM_Admin_Text": "DM Admin",
+  "DM_Admin_Link": "https://telegram.me/DonateAMZ",
+  "Copy_Device_ID_Text": "Copy Device ID",
+
+  "isExpiredActive": true,
+  "skipVerifyUrl": "https://pastebin.com/raw/bdDguBWL",
+  "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
+  "visitUrl": "https://linktr.ee/satriyaidbio",
+
+  "SpecialLink": {
+    "1.0": {
+      "url_ori": "https://google.com/ori",
+      "url_clone": "https://google.com/clone",
+      "active": true,
+      "text": "UPDATE NOW (DIRECT LINK)"
+    },
+    "1.1": {
+      "url": "https://google.com/2",
+      "active": false,
+      "text": "UPDATE NOW (DIRECT LINK)"
+    }
+  },
+
+  "is_Title_Flicker": true,
+  "Flicker_Delay": 500
+}
