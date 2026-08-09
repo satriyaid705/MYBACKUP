@@ -1,17 +1,16 @@
 {
-  "DialogShow": false,
-  "Dialog_Title": "Update Available\n(5.0.273 24JUL)",
-  "New_Version": "5.0.273.1028423",
+  "DialogShow": true,
+  "Dialog_Title": "Update Available\n(5.0.273 10AUG)",
+  "New_Version": "5.0.273.1028424",
   "Download_Link": "https://app.simplenote.com/p/9rRT9b",
 
   "Special_Link_Default_Text": "SPECIAL UPDATE",
   "Special_Link_Button_Text_Color": "#FFFFFF",
-  "Special_Link_Button_Gradient_Color1": "#AAAA00",
-  "Special_Link_Button_Gradient_Color2": "#00AA00",
+  "Special_Link_Button_Gradient_Color1": "#DDDD00",
+  "Special_Link_Button_Gradient_Color2": "#00DD00",
 
   "XDownload_Link": "ggg",
-
-  "isCancelable": false,
+  "isCancelable": true,
   "IsForceShowClose": false,
   "ForceShowCloseVersions": ["1.0", "1.1"],
 
@@ -48,16 +47,16 @@
 
   "multilink": true,
   "invalidUrl": "Link not Available",
-  "Single_Direct_Link": "https://google.com",
+  "Single_Direct_Link": "https://devuploads.com/vceg2ucfb6ad",
 
   "Direct_Button_Name_1": "ORI PKG and ORI THEME",
-  "Direct_Link_1": "https://devuploads.com/kqzkfo84gl7e",
+  "Direct_Link_1": "https://devuploads.com/vceg2ucfb6ad",
   "Direct_Button_Name_2": "ORI PKG and DARK THEME",
-  "Direct_Link_2": "https://devuploads.com/4v2m503rpalr",
+  "Direct_Link_2": "https://devuploads.com/5236wzq9iyme",
   "Direct_Button_Name_3": "CLONE PKG and ORI THEME",
-  "Direct_Link_3": "https://devuploads.com/4rk9q4ialrke",
+  "Direct_Link_3": "ggg",
   "Direct_Button_Name_4": "CLONE PKG and DARK THEME",
-  "Direct_Link_4": "https://devuploads.com/1ytyyp6heg08",
+  "Direct_Link_4": "ggg",
 
   "Settings_Button_Emoji": "⚙️",
   "Side_Menu_Background_Color": "#DD222222",
