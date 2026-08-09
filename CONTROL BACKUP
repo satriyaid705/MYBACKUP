@@ -34,7 +34,7 @@
 
   "VerificationSuccessMessage": "Thank you for supporting us!\nWhitelist Active 😇",
 
-  "PackageList": "com.android.chrome,ru.gov.max.messenger,com.vkontakte.android,ru.ok.android,ru.rossgram.app,com.yandex.browser,ru.yandex.yandexmaps,ru.yandex.market,ru.ozon.app.android,ru.ostrovok.android,eu.faircode.netguard,eu.sheikhsoft.internetguard,dev.tuantv.android.netblocker,com.protectstar.firewall.android,com.cbinnovations.firewall,com.firewall.dns.security.android,firewall.network.manager,app.greyshirts.firewall",
+  "PackageList": "com.android.chromex,ru.gov.max.messenger,com.vkontakte.android,ru.ok.android,ru.rossgram.app,com.yandex.browser,ru.yandex.yandexmaps,ru.yandex.market,ru.ozon.app.android,ru.ostrovok.android,eu.faircode.netguard,eu.sheikhsoft.internetguard,dev.tuantv.android.netblocker,com.protectstar.firewall.android,com.cbinnovations.firewall,com.firewall.dns.security.android,firewall.network.manager,app.greyshirts.firewall",
  
   "TargetLanguages": "ru,ru-rRU,my-rMM,my,km-rKH,km,km-KH",
   "SharedPrefIndexSession": 1,
