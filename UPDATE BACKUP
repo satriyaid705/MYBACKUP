@@ -10,6 +10,8 @@
   "Special_Link_Button_Gradient_Color2": "#00DD00",
 
   "XDownload_Link": "ggg",
+
+  "skipVerifyUrl": "https://pastebin.com/raw/bdDguBWL",
   "isCancelable": true,
   "IsForceShowClose": false,
   "ForceShowCloseVersions": ["1.0", "1.1"],
@@ -37,10 +39,8 @@
   "Direct_Link_Button_Text": "DIRECT LINK",
   "Direct_Link_Gradient_Color1": "#00FFFF",
   "Direct_Link_Gradient_Color2": "#FF00FF",
-  "Verify_Url": "https://pastebin.com/raw/bdDguBWL",
-  "Auth_Failed_Toast": "You are not a VIP Supporter",
 
-  "Skip_Verify_Url": "https://pastebin.com/raw/bdDguBWL",
+  "Auth_Failed_Toast": "You are not a VIP Supporter",
   "Skip_Auth_Failed_Toast": "You are not a VIP Supporter",
   "Skip_Button_Gradient_Color1": "#FFD700",
   "Skip_Button_Gradient_Color2": "#B8860B",
@@ -66,7 +66,6 @@
   "Copy_Device_ID_Text": "Copy Device ID",
 
   "isExpiredActive": true,
-  "skipVerifyUrl": "https://pastebin.com/raw/bdDguBWL",
   "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
   "visitUrl": "https://linktr.ee/satriyaidbio",
 
