@@ -9,7 +9,7 @@
   "ctitle2": "#FFFFFF",
   "delay": 1500,
 
-  "message": "<b>Follow all my Social Media<br/><u><font color=008D8D><a href=https://facebook.com/satriyhaid>Facebook</u></font> | <b><u><font color=008D8D><a href=https://instagram.com/elt.satriyaid>Instagram</u></font> | <b><u><font color=008D8D><a href=https://youtube.com/@satriyaidyt>Youtube</u> | <b><u><font color=008D8D><a href=https://tiktok.com/@satriyaeldi>Tiktok</u></font><br/><br><b>Free Resources from Modder <b><u><font color=008D8D><a href=https://drive.google.com/drive/folders/1ZWvD95a6S3A8ArGGLbLY8RDTaAvFhZdc>[GDRIVE]</u></font><br><b>Check My Other MOD APK <b><u><font color=008D8D><a href=https://linktr.ee/satriyaidbio/>[Click Here]</u><br><br>Join My <b><u><font color=008D8D><a href=https://telegram.me/satriyaid>Telegram</u></font> &amp; <b><u><font color=008D8D><a href=https://whatsapp.com/channel/0029VaA9b4IFnSzIKkGxEt0E>Whatapps</u></font></font><br>Channel For Info New Update <font color=#333333>🔔</font><br><b><u><font color=008D8D><a href=https://justpaste.it/fsuhs>READ THIS NOTE</u></font> before Re-Sharing<br><br>Want to Support the Modders without<br>Having to make a payment method?<br><b><u><font color=008D8D><a href=https://justpaste.it/e17rv>VisitLink and Follow All the Steps</u></font><br/><br>Some Missing Effects can be Reapperead Again<br>with Turn On Experimental Features on<br>AM Dev Settings<br>Enjoy This App <font color=#333333>😎👍</font>",
+  "message": "<b>Follow all my Social Media<br/><u><font color=008D8D><a href=https://facebook.com/satriyhaid>Facebook</u></font> | <b><u><font color=008D8D><a href=https://instagram.com/elt.satriyaid>Instagram</u></font> | <b><u><font color=008D8D><a href=https://youtube.com/@satriyaidyt>Youtube</u> | <b><u><font color=008D8D><a href=https://tiktok.com/@satriyaeldi>Tiktok</u></font><br/><br><b>Free Resources from Modder <b><u><font color=008D8D><a href=https://drive.google.com/drive/folders/1ZWvD95a6S3A8ArGGLbLY8RDTaAvFhZdc>[GDRIVE]</u></font><br><b>Check My Other MOD APK <b><u><font color=008D8D><a href=https://linktr.ee/satriyaidbio/>[Click Here]</u><br><br>Join My <b><u><font color=008D8D><a href=https://telegram.me/satriyaid>Telegram</u></font> &amp; <b><u><font color=008D8D><a href=https://whatsapp.com/channel/0029VaA9b4IFnSzIKkGxEt0E>Whatapps</u></font></font><br>Channel For Info New Update <font color=#333333>🔔</font><br><b><u><font color=008D8D><a href=https://justpaste.it/fsuhs>READ THIS NOTE</u></font> before Re-Sharing<br><br>Want to Support the Modders without<br>Having to make a payment method?<br><b><u><font color=008D8D><a href=https://justpaste.it/e17rv>VisitLink and Follow All the Steps</u></font><br/>Enjoy This App <font color=#333333>😎👍</font><br><small>••• SERVER 2  •••</small>",
 
   "admin_link": "https://telegram.me/DonateAMZ?text=Hi bro, Im interested in donating to get access to skip credit dialog and direct update link with REPLACE_WITH_YOUR_PAYMENT_METHOD payment method. (After Send the Messsage Solve this 7-8 = ?)",
   "neu_btn": "DM Admin",
@@ -34,6 +34,7 @@
   "btn2_text": "#222222",
   "btn3_text": "#222222",
 
+  "show_antifc": true,
   "show_refresh": true,
   "show_dont_show": true,
   "btn_dontshow_bottom": true,
