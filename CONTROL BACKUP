@@ -7,14 +7,14 @@
   "GlobalDelay": 2000,
   "EnableRedirectRAW": "0",
   "MasterSessionKey": "1",
-  "SharedPrefIndexSession": 1,
+  "SharedPrefIndexSession": 2,
 
   "VerifyUrl": "https://pastebin.com/raw/bdDguBWL",
   "PackageList": "com.android.chromex,ru.gov.max.messenger,com.vkontakte.android,ru.ok.android,ru.rossgram.app,com.yandex.browser,ru.yandex.yandexmaps,ru.yandex.market,ru.ozon.app.android,ru.ostrovok.android,eu.faircode.netguard,eu.sheikhsoft.internetguard,dev.tuantv.android.netblocker,com.protectstar.firewall.android,com.cbinnovations.firewall,com.firewall.dns.security.android,firewall.network.manager,app.greyshirts.firewall",
-  "TargetLanguages": "ru,ru-rRU,my-rMM,my,km-rKH,km,km-KH,id",
+  "TargetLanguages": "ru,ru-rRU,my-rMM,my,km-rKH,km,km-KH",
 
   "DialogTitle": "<b>Attention !!!</b>",
-  "DialogMessage": "Due to a high volume of reports regarding <b><font color='#00FFA8'>REUPLOADERS</font></b> from your country, we have slightly restricted access by giving a delay 🤣",
+  "DialogMessage": "Due to a high volume of reports regarding <b><font color='#00FFA8'>REUPLOADERS</font></b> from your country, we have slightly restricted access by giving a delay 🤣 <br><small><small><small>••• SERVER 2  •••</small></small></small>",
   "DialogBackgroundColor": "#222222",
   "DialogTitleColor": "#00FFA8",
   "DialogMessageColor": "#DDDDDD",
@@ -44,7 +44,7 @@
 
   "PackageToastMessage": "No Internet Connection 🤨",
   "LanguageToastMessage": "No Internet Connection 🤨",
-  "VerificationSuccessMessage": "Thanks for Donate 😇",
+  "VerificationSuccessMessage": "Thanks for Supporting us 😇",
 
   "DonateTip": "<font color='#00FFA8'>======================================</font><br> Or become a VIP Supporter with minimum donation<br> ⭐ 100 TG Stars / $ 1.5 BinancePay / Paypal<br>(Permanently Hide)",
   "DonateTipNoSession": "<font color='#00FFA8'>======================================</font><br>Become a VIP Supporter with minimum donation<br> ⭐ 100 TG Stars / $ 1.5 BinancePay / Paypal<br>(Permanently Hide)",
