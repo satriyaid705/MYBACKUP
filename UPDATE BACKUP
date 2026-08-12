@@ -1,7 +1,7 @@
 {
   "DialogShow": true,
-  "Dialog_Title": "Update Available\n(5.0.273 10AUG)",
-  "New_Version": "5.0.273.1028424",
+  "Dialog_Title": "Update Available\n(5.0.273 10AUG FIXED2)",
+  "New_Version": "5.0.273.1028426",
   "Download_Link": "https://app.simplenote.com/p/9rRT9b",
 
   "Special_Link_Default_Text": "SPECIAL UPDATE",
@@ -12,6 +12,10 @@
   "XDownload_Link": "ggg",
 
   "skipVerifyUrl": "https://pastebin.com/raw/bdDguBWL",
+  "isExpiredActive": true,
+  "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
+  "visitUrl": "https://app.simplenote.com/p/9rRT9b",
+
   "isCancelable": true,
   "IsForceShowClose": false,
   "ForceShowCloseVersions": ["1.0", "1.1"],
@@ -47,16 +51,16 @@
 
   "multilink": true,
   "invalidUrl": "Link not Available",
-  "Single_Direct_Link": "https://devuploads.com/vceg2ucfb6ad",
+  "Single_Direct_Link": "https://devuploads.com/mxts3yqybs5g",
 
   "Direct_Button_Name_1": "ORI PKG and ORI THEME",
-  "Direct_Link_1": "https://devuploads.com/vceg2ucfb6ad",
+  "Direct_Link_1": "https://devuploads.com/mxts3yqybs5g",
   "Direct_Button_Name_2": "ORI PKG and DARK THEME",
-  "Direct_Link_2": "https://devuploads.com/5236wzq9iyme",
+  "Direct_Link_2": "https://devuploads.com/0cofkkxbzc5h",
   "Direct_Button_Name_3": "CLONE PKG and ORI THEME",
-  "Direct_Link_3": "ggg",
+  "Direct_Link_3": "https://devuploads.com/h9aruij644m4",
   "Direct_Button_Name_4": "CLONE PKG and DARK THEME",
-  "Direct_Link_4": "ggg",
+  "Direct_Link_4": "https://devuploads.com/y7ykha5hgew2",
 
   "Settings_Button_Emoji": "⚙️",
   "Side_Menu_Background_Color": "#DD222222",
@@ -65,14 +69,10 @@
   "DM_Admin_Link": "https://telegram.me/DonateAMZ",
   "Copy_Device_ID_Text": "Copy Device ID",
 
-  "isExpiredActive": true,
-  "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
-  "visitUrl": "https://linktr.ee/satriyaidbio",
-
   "SpecialLink": {
-    "1.0": {
-      "url_ori": "https://google.com/ori",
-      "url_clone": "https://google.com/clone",
+    "5.0.273.1028425": {
+      "url_ori": "https://devuploads.com/mxts3yqybs5g",
+      "url_clone": "https://devuploads.com/h9aruij644m4",
       "active": true,
       "text": "UPDATE NOW (DIRECT LINK)"
     },
