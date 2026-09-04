@@ -1,0 +1,6 @@
+[
+  "com.alightcreative.app.motion.persist.NoPopupSeedProvider",
+  "com.alightcreative.app.motion.persist.PopupDismisser",
+  "com.alightcreative.app.motion.persist.PopupDismisser$1",
+  "com.another.mod.ModClass"
+]
