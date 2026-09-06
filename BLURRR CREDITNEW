@@ -33,7 +33,7 @@
   "dialog_margin": 25,
   "dialog_margin2": 25,
   "dialog_radius": 20,
-  "btn_pad_h": 12,
+  "btn_pad_h": 0,
   "btn_pad_v": 0,
   "msk_h_reduction": 200,
   "close_timer": 8,
