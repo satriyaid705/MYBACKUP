@@ -100,8 +100,8 @@
   "btn_clt": "Start CrashLogger",
   "title_hcd": "Hide CreditDialog",
   "btn_dont_show": "Don't Show Again",
-  "btn_refresh": "     REFRESH     ",
-  "btn_close": "     CLOSE (%ss)     ",
+  "btn_refresh": "REFRESH ",
+  "btn_close": " CLOSE (%ss) ",
   "btn_showing_again": "Showing Dialog Again",
 
   "subtitle_cm2": "Choose one of these 2 methods",
