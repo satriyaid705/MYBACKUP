@@ -38,10 +38,10 @@
   "msk_h_reduction": 200,
   "close_timer": 8,
 
-  "rel_scale": 95,
+  "rel_scale": 90,
   "rel_scale2": 90,
   "fwd": 350,
-  "fht": 550,
+  "fht": 600,
   "fwd_h": 350,
   "fht_h": 600,
   "fht_info": 640,
