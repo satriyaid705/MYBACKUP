@@ -1,7 +1,7 @@
 {
   "DialogShow": true,
-  "Dialog_Title": " Update Available \n(2.0.6-4 6SEP) ",
-  "New_Version": "2.0.6-4",
+  "Dialog_Title": " Update Available \n(2.0.6-5 8SEP) ",
+  "New_Version": "2.0.6-5",
   "Download_Link": "https://app.simplenote.com/p/xh3hlf",
 
   "isCancelable": true,
