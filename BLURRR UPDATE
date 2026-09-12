@@ -1,6 +1,6 @@
 {
   "DialogShow": true,
-  "Dialog_Title": " Update Available \n(2.0.6-5 8SEP) ",
+  "Dialog_Title": " Update Available \n(2.0.6-5.1 12SEP) ",
   "New_Version": "2.0.6-5",
   "Download_Link": "https://app.simplenote.com/p/xh3hlf",
 
@@ -14,7 +14,7 @@
   "Enable_Copy_Link": true,
 
   "Show_Changelog": false,
-  "Changelog_Text": "ChangeLog : <br><br>1. abc<br>2. def<br>3. ghi",
+  "Changelog_Text": "ChangeLog : <br><br>  • Fixed AI Features cant be Used",
   "Changelog_BG_Color": "#25000000",
 
   "IsForceShowClose": true,
