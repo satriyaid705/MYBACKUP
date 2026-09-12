@@ -13,7 +13,7 @@
   "Show_Bypass_Toast": false,
   "Enable_Copy_Link": true,
 
-  "Show_Changelog": false,
+  "Show_Changelog": true,
   "Changelog_Text": "ChangeLog : <br><br>  • Fixed AI Features cant be Used",
   "Changelog_BG_Color": "#25000000",
 
