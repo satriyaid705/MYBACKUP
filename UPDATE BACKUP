@@ -1,7 +1,7 @@
 {
-  "DialogShow": false,
-  "Dialog_Title": "Update Available\n(5.0.273 10AUG FIXED2)",
-  "New_Version": "5.0.273.1028426",
+  "DialogShow": true,
+  "Dialog_Title": "Update Available\n(5.0.273 14SEP)",
+  "New_Version": "5.0.273.1028427",
   "Download_Link": "https://app.simplenote.com/p/9rRT9b",
 
   "Special_Link_Default_Text": "SPECIAL UPDATE",
@@ -12,7 +12,7 @@
   "XDownload_Link": "ggg",
 
   "skipVerifyUrl": "https://raw.githubusercontent.com/satriyaid705/MYBACKUP/refs/heads/main/VIP%20BACKUP",
-  "isExpiredActive": false,
+  "isExpiredActive": true,
   "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
   "visitUrl": "https://app.simplenote.com/p/9rRT9b",
 
@@ -51,16 +51,16 @@
 
   "multilink": true,
   "invalidUrl": "Link not Available",
-  "Single_Direct_Link": "https://devuploads.com/mxts3yqybs5g",
+  "Single_Direct_Link": "ggg",
 
   "Direct_Button_Name_1": "ORI PKG and ORI THEME",
-  "Direct_Link_1": "https://devuploads.com/mxts3yqybs5g",
+  "Direct_Link_1": "https://pixeldrain.com/u/5zg13nhS",
   "Direct_Button_Name_2": "ORI PKG and DARK THEME",
-  "Direct_Link_2": "https://devuploads.com/0cofkkxbzc5h",
+  "Direct_Link_2": "https://pixeldrain.com/u/AnwVEkqc",
   "Direct_Button_Name_3": "CLONE PKG and ORI THEME",
-  "Direct_Link_3": "https://devuploads.com/h9aruij644m4",
+  "Direct_Link_3": "https://pixeldrain.com/u/J9JYqDxU",
   "Direct_Button_Name_4": "CLONE PKG and DARK THEME",
-  "Direct_Link_4": "https://devuploads.com/y7ykha5hgew2",
+  "Direct_Link_4": "https://pixeldrain.com/u/2mhd85c5",
 
   "Settings_Button_Emoji": "⚙️",
   "Side_Menu_Background_Color": "#DD222222",
@@ -73,7 +73,7 @@
     "5.0.273.1028425": {
       "url_ori": "https://devuploads.com/mxts3yqybs5g",
       "url_clone": "https://devuploads.com/h9aruij644m4",
-      "active": true,
+      "active": false,
       "text": "UPDATE NOW (DIRECT LINK)"
     },
     "1.1": {
