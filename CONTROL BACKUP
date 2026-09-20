@@ -1,5 +1,5 @@
 {
-  "EnableReturnVoid": "0",
+  "EnableReturnVoid": "1",
   "EnablePackageCheck": "1",
   "EnableLanguageCheck": "1",
   "IsOnlyShowOne": "1",
