@@ -1,5 +1,5 @@
 {
-  "EnableReturnVoid": "1",
+  "EnableReturnVoid": "0",
   "EnablePackageCheck": "1",
   "EnableLanguageCheck": "1",
   "IsOnlyShowOne": "1",
@@ -7,14 +7,14 @@
   "GlobalDelay": 2000,
   "EnableRedirectRAW": "0",
   "MasterSessionKey": "1",
-  "SharedPrefIndexSession": 2,
+  "SharedPrefIndexSession": 3,
 
   "VerifyUrl": "https://raw.githubusercontent.com/satriyaid705/MYBACKUP/refs/heads/main/VIP%20BACKUP",
   "PackageList": "com.android.chromex,ru.gov.max.messenger,com.vkontakte.android,ru.ok.android,ru.rossgram.app,com.yandex.browser,ru.yandex.yandexmaps,ru.yandex.market,ru.ozon.app.android,ru.ostrovok.android,eu.faircode.netguard,eu.sheikhsoft.internetguard,dev.tuantv.android.netblocker,com.protectstar.firewall.android,com.cbinnovations.firewall,com.firewall.dns.security.android,firewall.network.manager,app.greyshirts.firewall",
   "TargetLanguages": "ru,ru-rRU,my-rMM,my,km-rKH,km,km-KH",
 
   "DialogTitle": "<b>Attention !!!</b>",
-  "DialogMessage": "Due to a high volume of reports regarding <b><font color='#00FFA8'>REUPLOADERS</font></b> from your country, we have slightly restricted access by giving a delay 🤣 <br><small><small><small>••• SERVER 2  •••</small></small></small>",
+  "DialogMessage": "Due to a high volume of reports regarding <b><font color='#00FFA8'>REUPLOADERS</font></b> from your country, we have slightly restricted access by giving a delay 🤣",
   "DialogBackgroundColor": "#222222",
   "DialogTitleColor": "#00FFA8",
   "DialogMessageColor": "#DDDDDD",
