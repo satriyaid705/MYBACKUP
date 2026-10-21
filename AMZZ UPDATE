@@ -1,7 +1,7 @@
 {
   "DialogShow": true,
-  "Dialog_Title": "Update Available\n(5.0.273 19OCT)",
-  "New_Version": "5.0.273.1028428",
+  "Dialog_Title": "Update Available\n(10.0.1 22OCT)",
+  "New_Version": "10.0.1",
   "Download_Link": "https://app.simplenote.com/p/9rRT9b",
 
   "Special_Link_Default_Text": "SPECIAL UPDATE",
@@ -49,9 +49,9 @@
   "Skip_Button_Gradient_Color1": "#FFD700",
   "Skip_Button_Gradient_Color2": "#B8860B",
 
-  "multilink": true,
+  "multilink": false,
   "invalidUrl": "Link not Available",
-  "Single_Direct_Link": "ggg",
+  "Single_Direct_Link": "https://pixeldrain.com/u/tQhcZ1zE",
 
   "Direct_Button_Name_1": "ORI PKG and ORI THEME",
   "Direct_Link_1": "https://devuploads.com/yy5l0ahgtcln",
