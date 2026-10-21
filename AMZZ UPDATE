@@ -1,7 +1,7 @@
 {
-  "DialogShow": false,
-  "Dialog_Title": "Update Available\n(5.0.273 14SEP)",
-  "New_Version": "5.0.273.1028427",
+  "DialogShow": true,
+  "Dialog_Title": "Update Available\n(5.0.273 19OCT)",
+  "New_Version": "5.0.273.1028428",
   "Download_Link": "https://app.simplenote.com/p/9rRT9b",
 
   "Special_Link_Default_Text": "SPECIAL UPDATE",
@@ -25,7 +25,7 @@
   "Show_Settings_Button": true,
 
   "Dialog_Message": "Updates are required for apps to run properly, Bug Fixes and Get new feature from Updates. Visit the Link and Follow All the Instructions.",
-  "Warning_Text": "<small>⚠️ Downloading from sources other than<br/>The modder link will delete all existing projects.<br>••• SERVER 2  •••</small>",
+  "Warning_Text": "<small>⚠️ Downloading from sources other than<br/>The modder link will delete all existing projects.<br>••• SERVER 1  •••</small>",
 
   "Title_Color": "#FF00FFA8",
   "Title_Color2": "#FFFFFF",
@@ -54,13 +54,13 @@
   "Single_Direct_Link": "ggg",
 
   "Direct_Button_Name_1": "ORI PKG and ORI THEME",
-  "Direct_Link_1": "https://pixeldrain.com/u/5zg13nhS",
+  "Direct_Link_1": "https://devuploads.com/yy5l0ahgtcln",
   "Direct_Button_Name_2": "ORI PKG and DARK THEME",
-  "Direct_Link_2": "https://pixeldrain.com/u/AnwVEkqc",
+  "Direct_Link_2": "ggg",
   "Direct_Button_Name_3": "CLONE PKG and ORI THEME",
-  "Direct_Link_3": "https://pixeldrain.com/u/J9JYqDxU",
+  "Direct_Link_3": "ggg",
   "Direct_Button_Name_4": "CLONE PKG and DARK THEME",
-  "Direct_Link_4": "https://pixeldrain.com/u/2mhd85c5",
+  "Direct_Link_4": "https://devuploads.com/puy6c2mlpd04",
 
   "Settings_Button_Emoji": "⚙️",
   "Side_Menu_Background_Color": "#DD222222",
