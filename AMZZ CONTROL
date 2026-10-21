@@ -1,5 +1,5 @@
 {
-  "EnableReturnVoid": "0",
+  "EnableReturnVoid": "1",
   "EnablePackageCheck": "1",
   "EnableLanguageCheck": "1",
   "IsOnlyShowOne": "1",
@@ -9,7 +9,7 @@
   "MasterSessionKey": "1",
   "SharedPrefIndexSession": 3,
 
-  "VerifyUrl": "https://raw.githubusercontent.com/satriyaid705/MYBACKUP/refs/heads/main/VIP%20BACKUP",
+  "VerifyUrl": "https://raw.githubusercontent.com/satriyaid705/MYBACKUP/refs/heads/main/AMZZ%20VIIIIIIIPPPPPPP",
   "PackageList": "com.android.chromex,ru.gov.max.messenger,com.vkontakte.android,ru.ok.android,ru.rossgram.app,com.yandex.browser,ru.yandex.yandexmaps,ru.yandex.market,ru.ozon.app.android,ru.ostrovok.android,eu.faircode.netguard,eu.sheikhsoft.internetguard,dev.tuantv.android.netblocker,com.protectstar.firewall.android,com.cbinnovations.firewall,com.firewall.dns.security.android,firewall.network.manager,app.greyshirts.firewall",
   "TargetLanguages": "ru,ru-rRU,my-rMM,my,km-rKH,km,km-KH",
 
