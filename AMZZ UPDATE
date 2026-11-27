@@ -1,7 +1,7 @@
 {
   "DialogShow": true,
-  "Dialog_Title": "Update Available\n(10.0.1 22OCT)",
-  "New_Version": "10.0.1",
+  "Dialog_Title": "Update Available\n(10.0.1.1 27NOV)",
+  "New_Version": "10.0.1.1",
   "Download_Link": "https://app.simplenote.com/p/9rRT9b",
 
   "Special_Link_Default_Text": "SPECIAL UPDATE",
@@ -11,12 +11,16 @@
 
   "XDownload_Link": "ggg",
 
+  "Show_Changelog": true,
+  "Changelog_Text": "ChangeLog : <br><br>• Fixed Force Close Issue when entering the apps after several second on some device<br>• Extend Expiration for Edit Offline Mode<br>",
+  "Changelog_BG_Color": "#25000000",
+
   "skipVerifyUrl": "https://raw.githubusercontent.com/satriyaid705/MYBACKUP/refs/heads/main/AMZZ%20VIIIIIIIPPPPPPP",
-  "isExpiredActive": false,
+  "isExpiredActive": true,
   "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
   "visitUrl": "https://app.simplenote.com/p/9rRT9b",
 
-  "isCancelable": true,
+  "isCancelable": false,
   "IsForceShowClose": false,
   "ForceShowCloseVersions": ["1.0", "1.1"],
 
@@ -49,18 +53,18 @@
   "Skip_Button_Gradient_Color1": "#FFD700",
   "Skip_Button_Gradient_Color2": "#B8860B",
 
-  "multilink": false,
+  "multilink": true,
   "invalidUrl": "Link not Available",
   "Single_Direct_Link": "https://pixeldrain.com/u/tQhcZ1zE",
 
   "Direct_Button_Name_1": "ORI PKG and ORI THEME",
-  "Direct_Link_1": "https://devuploads.com/yy5l0ahgtcln",
+  "Direct_Link_1": "https://devuploads.com/000e7h9mkrv2",
   "Direct_Button_Name_2": "ORI PKG and DARK THEME",
-  "Direct_Link_2": "ggg",
+  "Direct_Link_2": "https://devuploads.com/a7u6gqr033em",
   "Direct_Button_Name_3": "CLONE PKG and ORI THEME",
-  "Direct_Link_3": "ggg",
+  "Direct_Link_3": "https://devuploads.com/mt6g6hn9a26s",
   "Direct_Button_Name_4": "CLONE PKG and DARK THEME",
-  "Direct_Link_4": "https://devuploads.com/puy6c2mlpd04",
+  "Direct_Link_4": "https://devuploads.com/nxgzwezjh9uk",
 
   "Settings_Button_Emoji": "⚙️",
   "Side_Menu_Background_Color": "#DD222222",
