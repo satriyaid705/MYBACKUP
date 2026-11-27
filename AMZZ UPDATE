@@ -16,11 +16,11 @@
   "Changelog_BG_Color": "#25000000",
 
   "skipVerifyUrl": "https://raw.githubusercontent.com/satriyaid705/MYBACKUP/refs/heads/main/AMZZ%20VIIIIIIIPPPPPPP",
-  "isExpiredActive": true,
+  "isExpiredActive": false,
   "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
   "visitUrl": "https://app.simplenote.com/p/9rRT9b",
 
-  "isCancelable": false,
+  "isCancelable": true,
   "IsForceShowClose": false,
   "ForceShowCloseVersions": ["1.0", "1.1"],
 
